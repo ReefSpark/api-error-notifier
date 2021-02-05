@@ -1,0 +1,17 @@
+{
+  "name": "api-error-notifier",
+  "version": "1.0.0",
+  "description": "Notifies any error that has been captured by application. All errors are notified over slack web hook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "error_logs_throw_on_slack"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/webhook": "^6.0.0"
+  }
+}
