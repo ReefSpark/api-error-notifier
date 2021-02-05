@@ -7,9 +7,9 @@
     "test": "npm test"
   },
   "keywords": [
-    "error_logs_throw_on_slack"
+    "api-error-notifier"
   ],
-  "author": "",
+  "author": "Reefspark",
   "license": "ISC",
   "dependencies": {
     "@slack/webhook": "^6.0.0"
